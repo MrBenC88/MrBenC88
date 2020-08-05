@@ -1,4 +1,4 @@
-### hello world! 👋 My name is Ben (him/him) and welcome to my GitHub!
+### hello world! 👋 My name is Ben (he/him) and welcome to my GitHub!
 
 <!--
 **MrBenC88/MrBenC88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
