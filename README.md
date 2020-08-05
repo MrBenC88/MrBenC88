@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a student at the [**University of British Columbia**](https://ubc.ca) in Vancouver, BC ✨. My previous degree was a B.Sc in Honours Biochemistry at the [**University of Windsor**](https://www.uwindsor.ca/). Currently, I am pursing a second degree in Honors Computer Science in the Faculty of Science. <br/>
 
-I am an advocate for fostering positive team relationships and championing the vision that tech can be for everyone. I am a big believer in giving back to the community and have a passion for sharing my knowledge through [blogs and guides](https://medium.com/@mrbenc) to inspire students to boldly build. I am excited to bring this passion for improving individuals and communities into my work.<br/>
+I am an advocate for fostering positive team relationships and championing the vision that tech can be for everyone. I am a big believer in giving back to the community and have a passion for sharing my knowledge through [blogs and guides](https://medium.com/@mrbenc) to inspire students to [boldly build](https://medium.com/@mrbenc/to-boldly-build-insights-for-new-developers-to-kickstart-their-projects-d7354a15b396). I am excited to bring this passion for improving individuals and communities into my work.<br/>
 
 This upcoming Fall, I will be interning with [**Checkfront**](https://www.checkfront.com/) as a software developer. <br/>
 
