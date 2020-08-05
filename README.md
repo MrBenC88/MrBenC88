@@ -26,7 +26,7 @@ In the past, I have built numerous Java and Python based games, as well as tools
 [**UBC Course Explorer**](https://ubcexplorer.io/) - A modern course search tool that enables all students to browse UBC course prerequisites and dependencies.<br/>
 [**BCS Degree Navigator and Dashboard**](https://ubcexplorer.io/bcs) - A modern dashboard with increased functionality related to course search features such as a worklist builder, degree progress tracker, and overview for users to quickly see their progress stats.<br/>
 
-Outside of work and academia, I am a sponsorship coordinator at [**nwPlus UBC**](https://www.nwplus.io/)— the team behind Western Canada’s largest hackathon, nwHacks, North America’s largest Local Hack Day 2018, and Vancouver BC’s first all-female* 24-hour hackathon, cmd-f.<br/><br/>
+Outside of work and academia, I am a sponsorship coordinator at [**nwPlus UBC**](https://www.nwplus.io/)— the team behind Western Canada’s largest hackathon, nwHacks, North America’s largest Local Hack Day 2018, and Vancouver BC’s first all-female* 24-hour hackathon, cmd-f.<br/>
 
 I'm currently looking for internships for Winter (Jan-Apr) ❄  and Summer (May-Aug) ☀ 2021. 
 
