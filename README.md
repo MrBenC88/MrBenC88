@@ -1,4 +1,4 @@
-### hello world! 👋 My name is Ben (he/him) and welcome to my GitHub!
+## hello world! 👋 My name is Ben (he/him) and welcome to my GitHub!
 
 <!--
 **MrBenC88/MrBenC88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ I am an advocate for fostering positive team relationships and championing the v
 
 This upcoming Fall, I will be interning with [**Checkfront**](https://www.checkfront.com/) as a software developer. <br/>
 
-In the past, I have built numerous Java and Python based games, as well as tools that enhance student experiences. A particularly interesting one is:<br/>
+In the past, I have built numerous Java and Python based games, as well as tools that enhance student experiences. A particularly interesting project developed with React is:<br/>
 
 [**UBC Course Explorer**](https://ubcexplorer.io/) - A modern course search tool that enables all students to browse UBC course prerequisites and dependencies.<br/>
 [**BCS Degree Navigator and Dashboard**](https://ubcexplorer.io/bcs) - A modern dashboard with increased functionality related to course search features such as a worklist builder, degree progress tracker, and overview for users to quickly see their progress stats.<br/>
@@ -30,6 +30,7 @@ Outside of work and academia, I am a sponsorship coordinator at [**nwPlus UBC**]
 
 I'm currently looking for internships for Winter (Jan-Apr) ❄  and Summer (May-Aug) ☀ 2021. 
 
+### Let's connect! 
 Feel free to reach out on [**LinkedIn**](https://www.linkedin.com/in/ben--cheung/) or via e-mail. 
 
 
