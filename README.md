@@ -31,6 +31,6 @@ Outside of work and academia, I am a sponsorship coordinator at [**nwPlus UBC**]
 I'm currently looking for internships for Winter (Jan-Apr) ❄  and Summer (May-Aug) ☀ 2021. 
 
 ### Let's connect! 
-Feel free to reach out on [**LinkedIn**](https://www.linkedin.com/in/ben--cheung/) or via [**e-mail**](mailto:bencheung@alumni.ubc.ca). 
+Feel free to reach out on [**LinkedIn**](https://www.linkedin.com/in/mrbenc88/) or via [**e-mail**](mailto:bencheung@alumni.ubc.ca). 
 
 
