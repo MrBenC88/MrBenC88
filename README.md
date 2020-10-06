@@ -28,7 +28,7 @@ In the past, I have built numerous Java and Python based games, as well as tools
 
 Outside of work and academia, I am a sponsorship coordinator at [**nwPlus UBC**](https://www.nwplus.io/)— the team behind Western Canada’s largest hackathon, nwHacks, North America’s largest Local Hack Day 2018, and Vancouver BC’s first all-female* 24-hour hackathon, cmd-f.<br/>
 
-I'm currently looking for internships for Winter (Jan-Apr) ❄  and Summer (May-Aug) ☀ 2021. 
+I'm currently looking for internships for Summer (May-Aug) ☀ 2021. 
 
 ### Let's connect! 
 Feel free to reach out on [**LinkedIn**](https://www.linkedin.com/in/mrbenc88/) or via [**e-mail**](mailto:bencheung@alumni.ubc.ca). 
