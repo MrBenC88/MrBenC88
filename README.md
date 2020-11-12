@@ -1,7 +1,5 @@
 ## Hello, I am Ben! (he/him)👋
 
-<img src="https://i.imgur.com/RgKyTyy.png" />
-
 
 🎓 I am a CS student at the [**University of British Columbia**](https://ubc.ca) in Vancouver, BC ✨. My previous degree was a B.Sc in Honours Biochemistry at the [**University of Windsor**](https://www.uwindsor.ca/). Currently, I am a sofware developer intern at [**Checkfront**](https://www.checkfront.com/). <br/>
 
@@ -18,7 +16,9 @@
 📌 Medium: [https://medium.com/@mrbenc](https://medium.com/@mrbenc) 
 
 
-<!-- [![MrBenC's github stats](https://github-readme-stats.vercel.app/api?username=mrbenc88&show_icons=true&include_all_commits=true&count_private=true&&hide=issues)](https://github.com/mrbenc88)
+<!-- 
+<img src="https://i.imgur.com/RgKyTyy.png" />
+[![MrBenC's github stats](https://github-readme-stats.vercel.app/api?username=mrbenc88&show_icons=true&include_all_commits=true&count_private=true&&hide=issues)](https://github.com/mrbenc88)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbenc88&layout=compact)](https://github.com/mrbenc88)
 -->
 
