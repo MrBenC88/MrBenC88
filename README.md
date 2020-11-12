@@ -1,7 +1,7 @@
 ## Hello, I am Ben! (he/him)👋
 
 
-🎓 I am a CS student at the [**University of British Columbia**](https://ubc.ca) in Vancouver, BC ✨. My previous degree was a B.Sc in Honours Biochemistry at the [**University of Windsor**](https://www.uwindsor.ca/). Currently, I am a sofware developer intern at [**Checkfront**](https://www.checkfront.com/). <br/>
+🎓 I am a CS student at the [**University of British Columbia**](https://ubc.ca) in Vancouver, BC. My previous degree was a B.Sc in Honours Biochemistry at the [**University of Windsor**](https://www.uwindsor.ca/). Currently, I am a sofware developer intern at [**Checkfront**](https://www.checkfront.com/). <br/>
 
 ✨ I am an advocate for fostering positive team relationships and championing the vision that tech can be for everyone. As a big believer in giving back to the community, I have a passion for sharing my knowledge through workshops, blogs, and guides to inspire students to [**boldly build**](https://medium.com/@mrbenc/to-boldly-build-insights-for-new-developers-to-kickstart-their-projects-d7354a15b396). 
 
