@@ -13,7 +13,7 @@
 📌 Contact: [mrbenc88@gmail.com](mailto:mrbenc88@gmail.com) <br/>
 📌 Website: [http://bencheung.me](http://bencheung.me)<br/>
 📌 LinkedIn: [https://www.linkedin.com/in/mrbenc88/](https://www.linkedin.com/in/mrbenc88/)<br/>
-📌 Medium: [https://medium.com/@mrbenc](https://medium.com/@mrbenc) 
+📌 Medium: [https://mrbenc.medium.com/](https://mrbenc.medium.com/) 
 
 
 <!-- 
