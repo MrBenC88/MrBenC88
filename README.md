@@ -7,12 +7,6 @@
 
 ⚡ Outside of work, I am managing my communities, reading light novels, working on collaborative passion projects, rushing to complete a hackathon submission, or feeding in a game of ARAM.
 
------
-### Workshops
-💻 [All About APIs](https://github.com/MrBenC88/Backend-Workshop) is a nwPlus workshop teaching individuals about how to setup their own Express.js backend server with a MongoDB database. It also covers the creation of endpoints that perform CRUD operations on the database.
-
-💻 [Frontend w/ React & Heroku](https://github.com/MrBenC88/React-Frontend-Workshop) is a frontend React workshop for nwHacks 2022 that focuses on using React, hooks, and GitHub API to build a GitHub issue explorer!
-
 ----
 ### Let's connect:  [![](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mrbenc88/)](https://www.linkedin.com/in/mrbenc88/) [![](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mrbenc88)](https://twitter.com/mrbenc88)
 
