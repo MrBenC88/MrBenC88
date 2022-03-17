@@ -1,4 +1,4 @@
-## Hello, I am Ben! (he/him)👋
+## Hello, I am Ben! (he/him) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 🎓 I am a CS student at the [**University of British Columbia**](https://ubc.ca) in Vancouver, BC. My previous degree was a B.Sc in Honours Biochemistry at the [**University of Windsor**](https://www.uwindsor.ca/). 
@@ -7,12 +7,16 @@
 
 ⚡ Outside of work, I am managing my communities, reading light novels, working on collaborative passion projects, rushing to complete a hackathon submission, or feeding in a game of ARAM.
 
-### Let's connect! 
+### Let's connect:  [![](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mrbenc88/)](https://www.linkedin.com/in/mrbenc88/) [![](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mrbenc88)](https://twitter.com/mrbenc88)
+
 ☕ Feel free to reach out if you’d like to chat over (virtual) coffee! I am thrilled to meet new people and hear your story.<br/>
+
+
 
 📌 Contact: [mrbenc88@gmail.com](mailto:mrbenc88@gmail.com) <br/>
 📌 Website: [http://bencheung.me](http://bencheung.me)<br/>
 📌 LinkedIn: [https://www.linkedin.com/in/mrbenc88/](https://www.linkedin.com/in/mrbenc88/)<br/>
+📌 Twitter: [https://twitter.com/mrbenc88](https://twitter.com/mrbenc88)<br/>
 📌 Medium: [https://mrbenc.medium.com/](https://mrbenc.medium.com/) 
 
 
