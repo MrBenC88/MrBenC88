@@ -1,5 +1,4 @@
 ## Hello, I am Ben! (he/him) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 ### Quick Intro
 🎓 I am a CS student at the [**University of British Columbia**](https://ubc.ca) in Vancouver, BC. My previous degree was a B.Sc in Honours Biochemistry at the [**University of Windsor**](https://www.uwindsor.ca/). I am a biochemist turned software engineer that is interested in entrepreneurship, web 3.0, product-market fit metrics, startups, writing, blockchain, and product management. I have worked in both full stack development and cloud engineering roles.
 
