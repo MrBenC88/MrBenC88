@@ -1,6 +1,6 @@
 ## Hi, I am Ben! (he/him) 
 ### Quick Intro
-👋 Hi, I'm Ben Cheung (he/him) - a biochemist turned software engineer. I have worked in software engineering roles for companies like Coinbase, Veeva, Riot Games, and TD Bank.
+👋 Hi, I'm Ben Cheung (he/him) - a biochemist turned software engineer.
 
 🎓 I am a CS grad at the [**University of British Columbia**](https://ubc.ca) in Vancouver, BC. My previous degree was a B.Sc in Honours Biochemistry at the [**University of Windsor**](https://www.uwindsor.ca/).
 
