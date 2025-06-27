@@ -4,7 +4,7 @@
 
 🎓 I am a CS grad at the [**University of British Columbia**](https://ubc.ca) in Vancouver, BC. My previous degree was a B.Sc in Honours Biochemistry at the [**University of Windsor**](https://www.uwindsor.ca/).
 
-✨I love building and scaling communities. I'm currently building [Tech Career North](https://www.techcareernorth.ca/)🍁 [formerly Tech Career Change] - a community for Canadian tech talent.
+✨I love building and scaling communities. In the past, I co-founded and built [Tech Career North](https://techcareernorth.vercel.app/)🍁 [formerly Tech Career Change] and [OtakuNet](https://mrbenc88.github.io/otakunet/).
 
 🌐 I've organized 9+ hackathons with 300-1,000+ attendees, mentored at 10+ hackathons, hosted panels and career-oriented workshops, and participated in numerous speaking engagements. I've also given lectures, including one at UBC.
 
